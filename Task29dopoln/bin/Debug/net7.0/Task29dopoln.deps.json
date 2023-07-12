@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task29dopoln/1.0.0": {
+        "runtime": {
+          "Task29dopoln.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task29dopoln/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
